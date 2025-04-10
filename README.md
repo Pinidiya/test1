@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hiruni</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Computer Science and Technology**
+- 🌱 I’m currently learning **Computer Science and Technology at UWU**
 
 - 📫 How to reach me **hirunipinidiya2022@gmail.com**
 
