@@ -1,2 +1,2 @@
-# test1
+# Pinidiya
 this is my first repository
